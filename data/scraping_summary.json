@@ -1,10 +1,9 @@
 {
-  "scraping_date": "2026-07-16T08:17:17.851877",
-  "total_rates": 1077,
+  "scraping_date": "2026-07-17T08:14:23.311080",
+  "total_rates": 839,
   "unique_currencies": [
     "AED",
     "AUD",
-    "BAH",
     "BHD",
     "CAD",
     "CHF",
@@ -14,28 +13,20 @@
     "GBP",
     "HKD",
     "JPY",
-    "KEN",
     "KRW",
-    "KUW",
     "KWD",
-    "LKR",
     "MXN",
     "MYR",
     "NOK",
     "NZD",
-    "OMA",
     "OMR",
-    "PAK",
     "PLN",
     "QAR",
-    "QAT",
-    "RUB",
     "SAR",
     "SEK",
     "SGD",
     "THB",
     "TRY",
-    "TUR",
     "USD",
     "ZAR"
   ],
@@ -54,102 +45,102 @@
       "status": "success",
       "rates_count": 120,
       "currencies": [
-        "CAD",
-        "JPY",
-        "OMR",
-        "SGD",
-        "CNH",
+        "NZD",
         "KWD",
         "AUD",
-        "QAR",
-        "AED",
-        "GBP",
-        "USD",
-        "MXN",
-        "DKK",
-        "CHF",
         "SAR",
-        "BHD",
+        "SGD",
+        "CHF",
+        "USD",
         "EUR",
-        "NOK",
         "HKD",
+        "MXN",
         "SEK",
-        "NZD"
+        "QAR",
+        "GBP",
+        "AED",
+        "CNH",
+        "OMR",
+        "JPY",
+        "DKK",
+        "CAD",
+        "NOK",
+        "BHD"
       ]
     },
     "ICICI": {
       "status": "success",
       "rates_count": 158,
       "currencies": [
-        "CAD",
-        "MYR",
-        "JPY",
-        "OMR",
-        "SGD",
-        "KWD",
-        "CNH",
-        "KRW",
-        "AUD",
-        "QAR",
-        "AED",
-        "USD",
-        "GBP",
-        "DKK",
-        "CHF",
-        "SAR",
-        "BHD",
-        "ZAR",
-        "EUR",
-        "NOK",
-        "SEK",
-        "HKD",
         "NZD",
+        "KWD",
+        "AUD",
+        "SAR",
+        "SGD",
+        "CHF",
+        "USD",
+        "EUR",
         "PLN",
-        "THB"
+        "HKD",
+        "SEK",
+        "QAR",
+        "GBP",
+        "AED",
+        "OMR",
+        "CNH",
+        "JPY",
+        "THB",
+        "ZAR",
+        "DKK",
+        "MYR",
+        "CAD",
+        "NOK",
+        "KRW",
+        "BHD"
       ]
     },
     "AXIS": {
       "status": "success",
       "rates_count": 134,
       "currencies": [
+        "SEK",
+        "THB",
         "CAD",
-        "ZAR",
-        "JPY",
-        "EUR",
-        "SGD",
+        "USD",
         "AED",
         "CNH",
-        "DKK",
-        "HKD",
-        "SEK",
         "GBP",
         "NZD",
-        "USD",
-        "CHF",
-        "SAR",
         "AUD",
-        "THB"
+        "EUR",
+        "SAR",
+        "ZAR",
+        "SGD",
+        "CHF",
+        "JPY",
+        "DKK",
+        "HKD"
       ]
     },
     "IDFC": {
       "status": "success",
       "rates_count": 90,
       "currencies": [
-        "CAD",
-        "ZAR",
-        "JPY",
-        "EUR",
-        "SGD",
-        "AED",
-        "CNH",
-        "NOK",
-        "HKD",
         "SEK",
         "USD",
+        "CAD",
+        "NOK",
+        "AED",
         "GBP",
+        "CNH",
         "NZD",
+        "EUR",
+        "AUD",
+        "ZAR",
+        "SGD",
         "CHF",
-        "AUD"
+        "JPY",
+        "HKD"
       ]
     },
     "IOB": {
@@ -161,93 +152,62 @@
       "status": "success",
       "rates_count": 160,
       "currencies": [
-        "CAD",
-        "JPY",
-        "OMR",
-        "SGD",
-        "CNH",
+        "NZD",
         "KWD",
         "AUD",
-        "AED",
-        "USD",
-        "GBP",
-        "DKK",
-        "CHF",
         "SAR",
-        "BHD",
-        "ZAR",
+        "SGD",
+        "CHF",
+        "USD",
         "EUR",
         "HKD",
         "SEK",
-        "NZD",
-        "THB"
+        "AED",
+        "GBP",
+        "CNH",
+        "OMR",
+        "JPY",
+        "THB",
+        "ZAR",
+        "DKK",
+        "CAD",
+        "BHD"
       ]
     },
     "SBI": {
       "status": "success",
-      "rates_count": 240,
-      "currencies": [
-        "CAD",
-        "MYR",
-        "JPY",
-        "SGD",
-        "CNH",
-        "TUR",
-        "KUW",
-        "KRW",
-        "AUD",
-        "AED",
-        "KEN",
-        "USD",
-        "GBP",
-        "BAH",
-        "DKK",
-        "RUB",
-        "OMA",
-        "LKR",
-        "CHF",
-        "SAR",
-        "BHD",
-        "PAK",
-        "ZAR",
-        "EUR",
-        "NOK",
-        "HKD",
-        "SEK",
-        "NZD",
-        "QAT",
-        "THB"
-      ]
+      "rates_count": 0,
+      "currencies": []
     },
     "HDFC": {
       "status": "success",
-      "rates_count": 175,
+      "rates_count": 177,
       "currencies": [
-        "CAD",
-        "MYR",
-        "TRY",
-        "JPY",
-        "OMR",
-        "SGD",
+        "NZD",
         "KWD",
-        "CNH",
-        "KRW",
         "AUD",
+        "SAR",
+        "SGD",
+        "CHF",
+        "TRY",
+        "USD",
+        "EUR",
+        "HKD",
+        "SEK",
         "QAR",
         "AED",
         "GBP",
-        "USD",
+        "OMR",
+        "CNH",
+        "JPY",
+        "THB",
         "DKK",
-        "CHF",
-        "SAR",
-        "BHD",
         "ZAR",
-        "EUR",
+        "MYR",
+        "CAD",
         "NOK",
-        "HKD",
-        "SEK",
-        "NZD",
-        "THB"
+        "KRW",
+        "BHD"
       ]
     }
   },
@@ -258,8 +218,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "USD": [
       "AXIS",
@@ -267,8 +226,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "CAD": [
       "AXIS",
@@ -276,8 +234,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "EUR": [
       "AXIS",
@@ -285,8 +242,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "AUD": [
       "AXIS",
@@ -294,8 +250,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "HKD": [
       "AXIS",
@@ -303,8 +258,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "SGD": [
       "AXIS",
@@ -312,8 +266,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "AED": [
       "AXIS",
@@ -321,8 +274,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "NZD": [
       "AXIS",
@@ -330,15 +282,13 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "BHD": [
       "HDFC",
       "HSBC",
       "ICICI",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "CHF": [
       "AXIS",
@@ -346,8 +296,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "CNH": [
       "AXIS",
@@ -355,16 +304,14 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "DKK": [
       "AXIS",
       "HDFC",
       "HSBC",
       "ICICI",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "JPY": [
       "AXIS",
@@ -372,8 +319,7 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "KWD": [
       "HDFC",
@@ -388,8 +334,7 @@
       "HDFC",
       "HSBC",
       "ICICI",
-      "IDFC",
-      "SBI"
+      "IDFC"
     ],
     "OMR": [
       "HDFC",
@@ -407,8 +352,7 @@
       "HDFC",
       "HSBC",
       "ICICI",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "SEK": [
       "AXIS",
@@ -416,63 +360,31 @@
       "HSBC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "THB": [
       "AXIS",
       "HDFC",
       "ICICI",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "ZAR": [
       "AXIS",
       "HDFC",
       "ICICI",
       "IDFC",
-      "KOTAK",
-      "SBI"
+      "KOTAK"
     ],
     "KRW": [
       "HDFC",
-      "ICICI",
-      "SBI"
+      "ICICI"
     ],
     "PLN": [
       "ICICI"
     ],
     "MYR": [
       "HDFC",
-      "ICICI",
-      "SBI"
-    ],
-    "BAH": [
-      "SBI"
-    ],
-    "KEN": [
-      "SBI"
-    ],
-    "KUW": [
-      "SBI"
-    ],
-    "LKR": [
-      "SBI"
-    ],
-    "OMA": [
-      "SBI"
-    ],
-    "PAK": [
-      "SBI"
-    ],
-    "QAT": [
-      "SBI"
-    ],
-    "RUB": [
-      "SBI"
-    ],
-    "TUR": [
-      "SBI"
+      "ICICI"
     ],
     "TRY": [
       "HDFC"
